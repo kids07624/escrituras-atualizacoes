@@ -1,11 +1,10 @@
 {
-    "versao":  "1.2",
-    "codigo":  3,
+    "versao":  "1.3",
+    "codigo":  4,
     "apk":  "https://github.com/kids07624/escrituras-atualizacoes/releases/latest/download/ExplorandoAsEscrituras.apk",
     "novidades":  [
-                      "Aba Atualizações na tela inicial",
-                      "Telas novas em 1080x2400",
-                      "Versículo do dia com Sua semana",
-                      "Perfil do personagem"
+                      "Atualização dentro do jogo com barra de progresso",
+                      "Tela de carregamento ao atualizar",
+                      "Aba Atualizações com ponto vermelho"
                   ]
 }
