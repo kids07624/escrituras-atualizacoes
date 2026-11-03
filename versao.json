@@ -1,8 +1,13 @@
 {
-    "versao":  "1.4",
-    "codigo":  5,
+    "versao":  "1.5",
+    "codigo":  6,
     "apk":  "https://github.com/kids07624/escrituras-atualizacoes/releases/latest/download/ExplorandoAsEscrituras.apk",
     "novidades":  [
-                      "Versão de teste da atualização dentro do jogo"
+                      "Limite de 1 hora por dia no jogo, com aviso para orar e ler a Bíblia",
+                      "Proteção contra trapaças: ouro, progresso, tempo e perguntas; progresso de versão antiga é conferido ao atualizar",
+                      "Sininho de notificações embaixo do Menu e botão Novidades, agora com imagens em carrossel",
+                      "Lembrete diário opcional (Android), desligado por padrão",
+                      "Seis histórias novas marcadas Em breve (Jó, José do Egito, Elias, Josafá, A crucificação, A igreja primitiva) e histórias reordenadas em ordem cronológica",
+                      "Botão Sair do app no aviso de fim do tempo"
                   ]
 }
